@@ -125,7 +125,7 @@ Thinkphp-5.x入口文件就在public目录里，所以网站目录要指向publi
 
 **伪静态设置，有些网站404，多半是伪静态的原因，根据程序的不同，选择不同的伪静态规则**
 
-![](https://upload-images.jianshu.io/upload_images/12291446-ce43c08a1fecd76f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://upload-images.jianshu.io/upload_images/12291446-01594f03e33ac8f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
